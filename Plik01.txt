@@ -5,3 +5,4 @@ Zmiana #4
 Zmiana #5
 Zmiana #6 w klonie
 Zmiana #7 w repozytorium oryginalnym
+Kolejna zmiana #8 w repozytorium
