@@ -6,3 +6,4 @@ Uproszczenie GUI
 Zmiana #8a
 Zmiana #9
 Zmiana #10
+Zmiana #11 na nowej gałęzi
